@@ -1,179 +1,135 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+%26+Android+Developer;Building+AI-Powered+Solutions;React+%7C+Node.js+%7C+Android;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
+<!--
+  GitHub Profile README
+  Repository: DEVENDRAN-P/DEVENDRAN-P
+--><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,45:1D4ED8,100:06B6D4&text=DEVENDRAN%20P&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Devendran P profile header" /><a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+useful+software%2C+one+problem+at+a+time.;Developing+AI-powered+web+applications.;Turning+complex+workflows+into+simple+experiences.;Learn.+Build.+Ship.+Improve." alt="Typing animation" />
+</a><p>
+  <a href="https://devport-x.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/devendran-p2007/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:devendranprabhakar2007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/DEVENDRAN-P"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p></div>About Me
+I'm Devendran P, an Information Technology undergraduate at Chennai Institute of Technology, Anna University. I enjoy building practical software that combines thoughtful engineering with AI-driven capabilities.
 
----
-
-## <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="380" alt="Coding GIF" />
-
-```javascript
+My work spans full-stack applications, AI-powered document workflows, machine learning integrations and Android development. I also enjoy strengthening my problem-solving skills through data structures and algorithms.
 const devendran = {
-  name: "DEVENDRAN P",
-  location: "Chennai, Tamil Nadu 🇮🇳",
-  education: "BTech Information Technology (CGPA: 8.8/10)",
-  currentRole: "Full Stack & Android Developer",
-  stack: ["Java", "C++", "React", "Node.js", "Firebase", "Android"],
-  currentlyLearning: ["Advanced React Patterns", "Cloud Architecture"],
-  funFact: "I love solving algorithmic problems and building AI-powered solutions",
-  getMotivation: () => "Code, Learn, Build, Repeat! 🚀"
+  role: "Full Stack Developer | AI Builder",
+  education: "B.Tech Information Technology",
+  university: "Chennai Institute of Technology, Anna University",
+  cgpa: "8.8 / 10",
+  focus: [
+    "Full Stack Engineering",
+    "AI & Machine Learning",
+    "Document Intelligence",
+    "Android Development"
+  ],
+  languages: ["Python", "Java", "C++", "JavaScript", "TypeScript", "SQL"],
+  motto: "Build with purpose. Learn continuously. Improve relentlessly."
 };
-```
+What I Work With
+<div align="center">Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark" alt="Python, Java, C++, JavaScript, TypeScript, HTML and CSS" />Frontend & Backend
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,fastapi&theme=dark" alt="React, Tailwind CSS, Node.js, Express and FastAPI" />AI, Data & Databases
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mongodb,postgres,mysql,firebase,sqlite&theme=dark" alt="AI and database technologies" />Android, Cloud & Developer Tools
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,docker,git,github,googlecloud,vercel,vscode&theme=dark" alt="Android, Kotlin, Docker, Git, GitHub, Google Cloud, Vercel and VS Code" /></div>Also experienced with: Google Gemini API, Hugging Face, Tesseract.js, REST APIs, OCR, NLP, Document Intelligence, Jetpack Compose, Retrofit and Room Database.
+Featured Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>INDHAN — AI Bid Compliance Platform</h3>
+      <p>AI-powered procurement compliance platform that helps evaluate tender requirements and supporting bid documents.</p>
+      <p><strong>Highlights</strong></p>
+      <ul>
+        <li>OCR-based requirement and document extraction</li>
+        <li>Rule-based validation and semantic matching</li>
+        <li>Contradiction detection, risk scoring and evidence tracking</li>
+        <li>Human review workflows and audit trails</li>
+      </ul>
+      <p><strong>Stack:</strong> React · FastAPI · PostgreSQL · OCR · AI</p>
+      <a href="https://github.com/DEVENDRAN-P/INDHAN-AI">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>GST Buddy — AI GST Assistant</h3>
+      <p>AI-assisted GST compliance application for invoice processing, filing assistance and compliance management.</p>
+      <p><strong>Highlights</strong></p>
+      <ul>
+        <li>Invoice data extraction using Tesseract.js</li>
+        <li>GSTIN, amount and tax-detail processing</li>
+        <li>Gemini-powered filing assistance and compliance guidance</li>
+        <li>Reminders and multilingual support</li>
+      </ul>
+      <p><strong>Stack:</strong> React · Firebase · Tesseract.js · Google Gemini API</p>
+      <a href="https://github.com/DEVENDRAN-P/demorepo-openai">View repository →</a>
+      · <a href="https://gstbuddy.vercel.app/">Live demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>TradePilot — AI Trading Platform</h3>
+      <p>Machine-learning-powered market analysis and paper-trading platform with an emphasis on risk controls.</p>
+      <p><strong>Highlights</strong></p>
+      <ul>
+        <li>ML-based market analysis and price-direction prediction</li>
+        <li>Automated paper trading and 19 risk gates</li>
+        <li>Broker reconciliation and P&amp;L tracking</li>
+        <li>Training, backtesting and model-comparison workflows</li>
+      </ul>
+      <p><strong>Stack:</strong> React · FastAPI · Alpaca · SQLite · ML</p>
+      <a href="https://github.com/DEVENDRAN-P/tradepilot">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI Placement Portal</h3>
+      <p>Placement management platform that brings student profiles, resumes and competitive-programming data together.</p>
+      <p><strong>Highlights</strong></p>
+      <ul>
+        <li>Student profiles, resumes and achievement management</li>
+        <li>LeetCode, CodeChef and Codeforces data integration</li>
+        <li>NLP/ML-based skill analysis</li>
+        <li>Candidate filtering and shortlisting workflows</li>
+      </ul>
+      <p><strong>Stack:</strong> React · TypeScript · Node.js · Express · MongoDB · NLP · ML</p>
+      <a href="https://github.com/DEVENDRAN-P/placement">View repository →</a>
+    </td>
+  </tr>
+</table>Experience
+Role	Organization	Period
+Full Stack Developer Intern	Suantx	Apr 2026 – Jun 2026
+Frontend Developer + DBMS (ERP) Trainee	CUMI	Nov 2025 – Dec 2025
+Virtual Android Developer Intern	EduSkills — Google Android Developer	Apr 2025 – Jun 2025
 
----
 
-## 💻 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Jetpack+Compose](https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-### Cloud & DevOps
-![Google+Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![VS+Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
+Areas of work
+- Built full-stack application features with React, Node.js and Express.
+- Integrated REST APIs, frontend components, backend services and database operations.
+- Developed responsive ERP interfaces and worked with SQL data validation and retrieval.
+- Built Android UI with Jetpack Compose and integrated Retrofit and Room Database.
+Problem Solving
+<div align="center"><a href="https://leetcode.com/u/devendran07/">
+  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 500+ solved" />
+</a>
+<a href="https://www.skillrack.com/">
+  <img src="https://img.shields.io/badge/SkillRack-450%2B%20Solved-2563EB?style=for-the-badge" alt="SkillRack 450+ solved" />
+</a>
+<a href="https://www.codechef.com/">
+  <img src="https://img.shields.io/badge/CodeChef-100%2B%20Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 100+ solved" />
+</a></div>I regularly practice Data Structures and Algorithms, covering problem-solving patterns and coding interview fundamentals. I also practice on GeeksforGeeks.
+Achievements
+- National-Level Finalist — OpenAI x NxtWave Buildathon.
+- Top 20 Finalist — A2Hack Fest Hackathon.
+Certifications
+- Claude Anthropic Courses — Generative AI, prompt engineering and LLM applications.
+- Data Analytics with Python — NPTEL.
+- Introduction to Networks — Cisco Networking Academy.
+- AWS Cloud Practitioner Essentials — Amazon Web Services.
+GitHub Activity
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=DEVENDRAN-P&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=70A5FD&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVENDRAN-P&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8" alt="Most used programming languages" /><img width="75%" src="https://streak-stats.demolab.com?user=DEVENDRAN-P&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=70A5FD&currStreakLabel=70A5FD" alt="GitHub contribution streak" /><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DEVENDRAN-P&bg_color=0D1117&color=70A5FD&line=38BDF8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" /></div>Let's Connect
+I'm always interested in connecting with developers, collaborating on meaningful projects and exploring opportunities in software engineering and AI.
 <div align="center">
-  <a href="https://github.com/DEVENDRAN-P">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEVENDRAN-P&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/DEVENDRAN-P">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVENDRAN-P&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
-</div>
+<a href="https://devport-x.vercel.app/"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" /></a>
 
----
+<a href="mailto:devendranprabhakar2007@gmail.com">devendranprabhakar2007@gmail.com</a> ·
+<a href="https://www.linkedin.com/in/devendran-p2007/">LinkedIn</a> ·
+<a href="https://github.com/DEVENDRAN-P">GitHub</a>
 
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DEVENDRAN-P&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVENDRAN-P&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DEVENDRAN-P&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 💼 Work Experience
-
-<details open>
-<summary><strong>Virtual Android Developer Intern - EduSkills (Google Android Developer)</strong> | Apr 2025 - Jun 2025 | Remote</summary>
-
-> ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-> ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-> ![Jetpack+Compose](https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=flat-square&logo=android&logoColor=white)
-> ![Retrofit](https://img.shields.io/badge/Retrofit-FF6D00?style=flat-square&logoColor=white)
-> ![Room](https://img.shields.io/badge/Room%20DB-4285F4?style=flat-square&logoColor=white)
-
-- Developed **20+ UI components** using Jetpack Compose for modern Android applications
-- Integrated **Retrofit** for seamless API communication and **Room** for efficient local database management
-- Implemented MVVM architecture patterns for scalable application development
-- Collaborated with cross-functional teams to deliver high-quality Android features
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|---------|-------|-----------|
-| **GST Buddy** – AI GST Assistant | React, Firebase, Tesseract.js, Node.js | 🤖 OCR invoice scanning with 95%+ accuracy • 🌍 Multilingual support for 5+ languages • 📅 Automated GST filing deadline reminders • 🔐 100% secure data encryption |
-| **AI Placement Portal** | React, Node.js, MongoDB, LeetCode API | 👥 500+ student profiles managed • 🎯 Smart filtering by CGPA & coding stats • 📊 Real-time CodeChef & Codeforces integration • ⚡ 40% faster student shortlisting |
-| **SMS Restaurant Website** | HTML, CSS, JavaScript | 🍽️ Fully responsive design (Mobile-first) • 🛒 Functional online ordering system • ⚙️ Smooth JavaScript interactions • 📱 Cross-browser compatibility |
-
-</div>
-
----
-
-## 🎯 Achievements & Milestones
-
-<div align="center">
-
-| Badge | Achievement | Details |
-|-------|-------------|---------|
-| 💻 | **Competitive Programming Master** | 🥇 LeetCode: 400+ problems solved • SkillRack: 450+ problems solved • CodeChef: 100+ problems solved |
-| 🏅 | **Hackathon Excellence** | 🏆 OpenAI x NxtWave Buildathon – National Level Finalist • 🥈 A2Hack Fest Hackathon – Top 20 Finalist |
-| 🎖️ | **Cloud & Developer Badges** | ☁️ Google Cloud: 3 Professional Badges • 🔧 Google for Developers: 29 Badges • 📚 EduSkills: Cohort 12 & 13 Graduate |
-| 🎓 | **Military Service** | 🪖 NCC Cadet – Participated in camps, drills, and community service programs |
-
-</div>
-
----
-
-## 📚 Education
-
-<div align="center">
-
-| Degree | Institution | Duration | Score |
-|--------|-------------|----------|-------|
-| **BTech Information Technology** | Chennai Institute Of Technology | Sep 2024 – May 2028 | **8.8/10** |
-| **Higher Secondary** | Sri Lakshmi Vithyalaya Mr Hr Sec School | Completed | **570/600** |
-
-</div>
-
----
-
-## 🧱 Currently Learning
-
-```
-🔄 Advanced React Patterns
-  └─ Server Components, Suspense, Concurrent Rendering
-
-📱 Jetpack Compose Mastery
-  └─ Advanced Layouts, State Management, Performance Optimization
-
-☁️ Cloud Architecture & DevOps
-  └─ Microservices, Docker, Kubernetes, CI/CD Pipelines
-
-🤖 GenAI & LLM Integration
-  └─ Prompt Engineering, RAG Systems, Fine-tuning Models
-```
-
----
-
-<div align="center">
-  
-[![](https://komarev.com/ghpvc/?username=DEVENDRAN-P&color=blue)](https://github.com/DEVENDRAN-P)
-
-**💬 Feel free to reach out!**
-
-[📧 Email](mailto:devendranprabhakar2007@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/devendran-p2007) • [🐙 GitHub](https://github.com/DEVENDRAN-P) • [📱 WhatsApp](https://wa.me/917418227907)
-
-</div>
-
----
-
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+<img src="https://komarev.com/ghpvc/?username=DEVENDRAN-P&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" /><img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,55:1D4ED8,100:0F172A" width="100%" alt="Footer wave" /></div>
